@@ -1,0 +1,1 @@
+2024/07/09 20:26:38 [alert] 183#183: *508 512 worker_connections are not enough while connecting to upstream, client: 127.0.0.1, server: localhost-nginx-proxy-manager, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:80/favicon.ico", host: "54.159.201.129", referrer: "http://54.159.201.129/"
